@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in West Palm Beach, Florida with a population of over 117k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in West Palm Beach, Florida, US",
-  "export_job_id": "b87b1fd0-33ab-431b-98ed-994dec812998",
+  "export_job_id": "12ef2b5d-8bd1-4069-8959-d326e583ebfd",
   "github_org": "Beamstation-Datasets",
   "id_short": 661493,
   "location_name": "West Palm Beach",
   "location_type": "city",
   "repo_name": "all-restaurants-in-west-palm-beach-florida-us-sample-661493",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/661493/beamstation_661493_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 9.76,
+  "sample_pct": 9.89,
   "sample_records": 80,
   "sample_sha256": "40c822d86cf1fd51b2c54a95e674abf2204c1bdb20d53792b7f78a66d1865f70",
   "sample_size_bytes": 300790,
-  "total_records": 820,
-  "updated_at": "2026-04-07T12:47:48.607450+00:00"
+  "total_records": 809,
+  "updated_at": "2026-04-14T12:38:12.511979+00:00"
 }
