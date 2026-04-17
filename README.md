@@ -9,9 +9,9 @@
 | Dataset ID | `661493` |
 | Location | West Palm Beach |
 | Category | Restaurants |
-| Full dataset size | 820 records |
-| Free sample size | 80 records (9.76%) |
-| Last export | 2026-04-07T12:47:48.607450+00:00 |
+| Full dataset size | 809 records |
+| Free sample size | 80 records (9.89%) |
+| Last export | 2026-04-14T12:38:12.511979+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-west-palm-beach-florida-us-sample-661493/releases/download/sample-latest/beamstation_661493_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
