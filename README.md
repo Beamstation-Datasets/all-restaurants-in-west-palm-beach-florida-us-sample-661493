@@ -1,6 +1,6 @@
 # All Restaurants in West Palm Beach, Florida, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 83 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `661493` |
 | Location | West Palm Beach |
 | Category | Restaurants |
-| Full dataset size | 403 records |
-| Free sample size | 40 records (9.93%) |
-| Last export | 2026-04-21T13:19:37.311784+00:00 |
+| Full dataset size | 832 records |
+| Free sample size | 83 records (9.98%) |
+| Last export | 2026-04-28T14:21:42.932183+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-west-palm-beach-florida-us-sample-661493/releases/download/sample-latest/beamstation_661493_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
