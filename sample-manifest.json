@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f0863665-ab91-43ad-a463-097e763208ed",
+  "export_job_id": "fabf5682-a963-4a84-b24c-595d421d0a4c",
   "id_short": 661493,
-  "published_at": "2026-04-28T19:24:17Z",
+  "published_at": "2026-05-06T07:13:27Z",
   "repo_name": "all-restaurants-in-west-palm-beach-florida-us-sample-661493",
   "sample_asset_name": "beamstation_661493_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/661493/beamstation_661493_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 83,
-  "sample_sha256": "873381427fbd133d89a35ed1cd8de49825883b5ee8b58520b8c938b78c631abd",
-  "sample_size_bytes": 293298,
-  "total_records": 832
+  "sample_records": 84,
+  "sample_sha256": "3fc49b736bbe6cce94d5cf43952245dc28d3c3b9437269fd4d609222cbe44585",
+  "sample_size_bytes": 314996,
+  "total_records": 849
 }
